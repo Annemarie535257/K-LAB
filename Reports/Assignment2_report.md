@@ -1,0 +1,3 @@
+The GroupBy and merge transform took the longest to get right. I had to make sure the city-level statistics were calculated correctly and that merging them back into the main dataframe did not change the number of house records. Checking the dataframe shape before and after the merge helped me confirm that it worked correctly.
+
+If I worked with another dataset, I would inspect the data more carefully at the beginning, especially unusual values such as zeros, duplicates, and outliers. I would also decide on my main analysis question earlier so that my cleaning and transformations are more focused.
