@@ -87,7 +87,7 @@ reports/a2_chart2.png
 The final analysis report and reflection are saved to:
 
 ```text
-reports/weekend-a2-report.md
+reports/Assignment2_report.md
 ```
 
 ## Technologies Used
